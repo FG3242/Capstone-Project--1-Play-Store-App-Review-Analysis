@@ -1,4 +1,3 @@
-![Plotly Figure](figure.png)
 
 # Capstone-Project--1-Play-Store-App-Review-Analysis
 # Project Summary -
