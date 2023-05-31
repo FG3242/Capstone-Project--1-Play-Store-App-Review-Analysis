@@ -1,3 +1,5 @@
+![Plotly Figure](figure.png)
+
 # Capstone-Project--1-Play-Store-App-Review-Analysis
 # Project Summary -
 The Play Store App EDA (Exploratory Data Analysis) project is an in-depth analysis of the Google Play Store app dataset. The primary objective of this project is to gain insights into the various aspects of apps available on the Play Store and understand the factors that contribute to their popularity and success.
